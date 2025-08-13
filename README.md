@@ -1,6 +1,8 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SemdiankinaHalyna&show_icons=true&theme=dark)
-## Hi there 👋
+### Hi there! Welcome to my Github Profile! 👋
 
+I'm Halyna, a Data Science enthusiast with a Bachelor’s degree in Finance. I am interested in all things data and machine learning systems and uncovering insights to create impactful solutions.
+
+Check out my [Portfolio](https://github.com/SemdiankinaHalyna/Portfolio) for all of my projects, micro-projects, skills, certificates, and achievements. 
 <!--
 **SemdiankinaHalyna/SemdiankinaHalyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SemdiankinaHalyna&show_icons=true&theme=dark)
